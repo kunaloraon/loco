@@ -13,11 +13,11 @@ self_token = "self token"
 
 loco_bearer_token = "Bearer token Example: xxxxxxxxxxxxxxxxxxxxxx"
 
-BOT_TOKEN = "NTMxODIzNjk3NDQ3ODc4NjU2.XcEkNQ.5Xssh33EixnJlloOQdszvgXrCos"
+bot_token = "NTMxODIzNjk3NDQ3ODc4NjU2.XcEkNQ.5Xssh33EixnJlloOQdszvgXrCos"
 
-bot_prefix = " "
+bot_prefix = "+"
 
-answer_channel_id = "your answer channel id"
+answer_channel_id = "498197462327230464"
 
 Crowd_channels = ["xxxxxxxxxx","xxxxxxxxxxxxx"]
 
