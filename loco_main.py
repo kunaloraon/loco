@@ -13,7 +13,7 @@ self_token = "self token"
 
 loco_bearer_token = "Bearer token Example: xxxxxxxxxxxxxxxxxxxxxx"
 
-bot_token = "bot token"
+bot_token = "NTMxODIzNjk3NDQ3ODc4NjU2.XcEkNQ.5Xssh33EixnJlloOQdszvgXrCos"
 
 bot_prefix = " "
 
